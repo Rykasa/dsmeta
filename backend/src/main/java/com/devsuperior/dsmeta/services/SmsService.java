@@ -1,6 +1,6 @@
 package com.devsuperior.dsmeta.services;
 
-import org.springframework.beans.factory.annotation.Autowired;
+/*import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
@@ -9,10 +9,10 @@ import com.devsuperior.dsmeta.repositories.SaleRepository;
 import com.twilio.Twilio;
 import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.type.PhoneNumber;
-
-@Service
-public class SmsService {
-
+*/
+//@Service
+public class SmsService {}
+/*
 	@Value("${twilio.sid}")
 	private String twilioSid;
 
@@ -46,4 +46,4 @@ public class SmsService {
 
 		System.out.println(message.getSid());
 	}
-}
+}*/
